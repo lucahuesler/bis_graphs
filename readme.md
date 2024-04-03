@@ -23,6 +23,11 @@ Install the required libraries:
 pip install --upgrade pip && pip install -r requirements.tx
 ```
 
+## Basic example
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//lucahuesler/bis_graphs/blob/main/example.ipynb)
+
+
 
 
 
